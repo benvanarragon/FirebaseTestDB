@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseTestDB</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Country</item>
+        <item>Pop</item>
+    </array>
+</resources>
